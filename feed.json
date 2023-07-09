@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PrintCAD-Lab",
+    "description": "",
+    "home_page_url": "https://daddesen.github.io",
+    "feed_url": "https://daddesen.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://daddesen.github.io/media/website/Daddesen-logga-2.jpg",
+    "author": {
+        "name": "David Sundvall"
+    },
+    "items": [
+        {
+            "id": "https://daddesen.github.io/tub-pressare-2.html",
+            "url": "https://daddesen.github.io/tub-pressare-2.html",
+            "title": "Tub pressare  2",
+            "summary": "19 kr&nbsp; Maximera krämanvändning och minska slöseriet med vår smarta miljövänliga produkt. Få ut sista droppen.&nbsp;",
+            "content_html": "\n    <h2 id=\"19-krandnbsp\">\n      19 kr&nbsp;\n    </h2>\n\n    <h5 id=\"maximera-kraemanvaendning-och-minska-sloeseriet-med-var-smarta-miljoevaenliga-produkt-fa-ut-sista-droppenandnbsplessbrgreater\">\n      Maximera krämanvändning och minska slöseriet med vår smarta miljövänliga produkt. Få ut sista droppen.&nbsp;<br>\n    </h5>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://daddesen.github.io/media/posts/3/Skarmavbild-2023-07-09-kl.-12.19.17.png\" height=\"167\" width=\"510\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://daddesen.github.io/media/posts/3/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-xs.png 300w ,https://daddesen.github.io/media/posts/3/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-sm.png 480w ,https://daddesen.github.io/media/posts/3/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-md.png 768w ,https://daddesen.github.io/media/posts/3/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-lg.png 1024w ,https://daddesen.github.io/media/posts/3/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-xl.png 1360w ,https://daddesen.github.io/media/posts/3/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-2xl.png 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://daddesen.github.io/media/posts/3/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c.jpeg\" height=\"886\" width=\"886\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://daddesen.github.io/media/posts/3/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-xs.jpeg 300w ,https://daddesen.github.io/media/posts/3/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-sm.jpeg 480w ,https://daddesen.github.io/media/posts/3/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-md.jpeg 768w ,https://daddesen.github.io/media/posts/3/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-lg.jpeg 1024w ,https://daddesen.github.io/media/posts/3/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-xl.jpeg 1360w ,https://daddesen.github.io/media/posts/3/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-2xl.jpeg 1600w\">\n      \n    </figure>",
+            "image": "https://daddesen.github.io/media/posts/3/Skarmavbild-2023-07-09-kl.-12.28.33.png",
+            "author": {
+                "name": "David Sundvall"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-09T17:53:03+02:00",
+            "date_modified": "2023-07-09T17:54:12+02:00"
+        },
+        {
+            "id": "https://daddesen.github.io/ldekrjhhg.html",
+            "url": "https://daddesen.github.io/ldekrjhhg.html",
+            "title": "ldekrjhhg",
+            "summary": "Hkjerhnföpaljksedf.",
+            "content_html": "<p>Hkjerhnföpaljksedf.               <img loading=\"lazy\" src=\"https://daddesen.github.io/media/posts/2/Skarmavbild-2023-07-09-kl.-12.28.47-2.png\" alt=\"\" width=\"402\" height=\"534\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://daddesen.github.io/media/posts/2/responsive/Skarmavbild-2023-07-09-kl.-12.28.47-2-xs.png 300w ,https://daddesen.github.io/media/posts/2/responsive/Skarmavbild-2023-07-09-kl.-12.28.47-2-sm.png 480w ,https://daddesen.github.io/media/posts/2/responsive/Skarmavbild-2023-07-09-kl.-12.28.47-2-md.png 768w ,https://daddesen.github.io/media/posts/2/responsive/Skarmavbild-2023-07-09-kl.-12.28.47-2-lg.png 1024w ,https://daddesen.github.io/media/posts/2/responsive/Skarmavbild-2023-07-09-kl.-12.28.47-2-xl.png 1360w ,https://daddesen.github.io/media/posts/2/responsive/Skarmavbild-2023-07-09-kl.-12.28.47-2-2xl.png 1600w\"></p>",
+            "author": {
+                "name": "David Sundvall"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-09T16:45:26+02:00",
+            "date_modified": "2023-07-09T16:45:26+02:00"
+        },
+        {
+            "id": "https://daddesen.github.io/tub-pressare.html",
+            "url": "https://daddesen.github.io/tub-pressare.html",
+            "title": "Tub pressare ",
+            "summary": "19 kr&nbsp; Maximera krämanvändning och minska slöseriet med vår smarta miljövänliga produkt. Få ut sista droppen.&nbsp;",
+            "content_html": "\n    <h2 id=\"19-krandnbsp\">\n      19 kr&nbsp;\n    </h2>\n\n    <h5 id=\"maximera-kraemanvaendning-och-minska-sloeseriet-med-var-smarta-miljoevaenliga-produkt-fa-ut-sista-droppenandnbsplessbrgreater\">\n      Maximera krämanvändning och minska slöseriet med vår smarta miljövänliga produkt. Få ut sista droppen.&nbsp;<br>\n    </h5>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://daddesen.github.io/media/posts/1/Skarmavbild-2023-07-09-kl.-12.19.17.png\" height=\"167\" width=\"510\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://daddesen.github.io/media/posts/1/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-xs.png 300w ,https://daddesen.github.io/media/posts/1/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-sm.png 480w ,https://daddesen.github.io/media/posts/1/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-md.png 768w ,https://daddesen.github.io/media/posts/1/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-lg.png 1024w ,https://daddesen.github.io/media/posts/1/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-xl.png 1360w ,https://daddesen.github.io/media/posts/1/responsive/Skarmavbild-2023-07-09-kl.-12.19.17-2xl.png 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://daddesen.github.io/media/posts/1/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c.jpeg\" height=\"886\" width=\"886\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://daddesen.github.io/media/posts/1/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-xs.jpeg 300w ,https://daddesen.github.io/media/posts/1/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-sm.jpeg 480w ,https://daddesen.github.io/media/posts/1/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-md.jpeg 768w ,https://daddesen.github.io/media/posts/1/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-lg.jpeg 1024w ,https://daddesen.github.io/media/posts/1/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-xl.jpeg 1360w ,https://daddesen.github.io/media/posts/1/responsive/4B33D02E-8DD0-4900-B232-2B839645219E_1_105_c-2xl.jpeg 1600w\">\n      \n    </figure>",
+            "image": "https://daddesen.github.io/media/posts/1/1A65FFF3-DCE2-488D-B65B-489634AD4E8E_1_105_c.jpeg",
+            "author": {
+                "name": "David Sundvall"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-09T12:04:53+02:00",
+            "date_modified": "2023-07-09T17:54:56+02:00"
+        }
+    ]
+}

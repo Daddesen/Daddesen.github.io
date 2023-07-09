@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://daddesen.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://daddesen.github.io/</loc>
+</url>
+<url>
+<loc>https://daddesen.github.io/ldekrjhhg.html</loc>
+<lastmod>2023-07-09T16:45:26+02:00</lastmod>
+<image:image>
+<image:loc>https://daddesen.github.io/media/posts/2/Skarmavbild-2023-07-09-kl.-12.28.47-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://daddesen.github.io/tub-pressare-2.html</loc>
+<lastmod>2023-07-09T17:54:12+02:00</lastmod>
+<image:image>
+<image:loc>https://daddesen.github.io/media/posts/3/Skarmavbild-2023-07-09-kl.-12.28.33.png</image:loc>
+<image:title><![CDATA[Tub pressare]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://daddesen.github.io/tub-pressare.html</loc>
+<lastmod>2023-07-09T17:54:56+02:00</lastmod>
+<image:image>
+<image:loc>https://daddesen.github.io/media/posts/1/1A65FFF3-DCE2-488D-B65B-489634AD4E8E_1_105_c.jpeg</image:loc>
+<image:title><![CDATA[Tub pressare]]></image:title>
+</image:image>
+</url>
+</urlset>
